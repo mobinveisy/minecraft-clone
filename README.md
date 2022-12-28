@@ -1,4 +1,4 @@
-!(icon)[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.clipartmax.com%2Fmiddle%2Fm2H7i8H7K9N4Z5b1_minecraft-icon-icon-minecraft-logo-png%2F&psig=AOvVaw16LMbknKrfJYdnIdseHa8f&ust=1672295356577000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNDh0OfXm_wCFQAAAAAdAAAAABAE]        # Welcome to React three fiber Minecraft
+# Welcome to React three fiber Minecraft
 
 This project is just me trying to mimic Minecraft in React.
 
